@@ -35,6 +35,9 @@ Note: Your Google Drive must be connected before running the program.
 
 
 Choose an option(1-4):1
+
+
+
 Enter expense category:Food
 Enter expense description:lunch with friends
 Enter date (YYYY-MM-DD): 
