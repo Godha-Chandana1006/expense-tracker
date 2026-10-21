@@ -22,24 +22,24 @@ A simple Python Expense Tracker that helps users record, view, and summarize the
 ## Data Storage
 Expenses are stored in a CSV file in Google Drive so that saved records can be loaded again when the notebook is run.
 Note: Your Google Drive must be connected before running the program.
-## Sample Output
+## Sample output
 
 
 
 -----EXPENSE TRACKER-----
-1. Add expense
-2. View expenses
-3. Summarize expenses
-4. Exit
+1.Add expense
+2.View expenses
+3.Summmarize expenses
+4.Exit
 
 
 
-Choose an option (1-4): 1
-Enter expense category: Food
-Enter expense description: lunch with friends
-Enter date (YYYY-MM-DD):
+Choose an option(1-4):1
+Enter expense category:Food
+Enter expense description:lunch with friends
+Enter date (YYYY-MM-DD): 
 No date entered. Using today's date: 2026-10-21
-Enter amount in Rs: 200
+Enter amount in Rs:200
 Expense added and saved successfully
 
 
