@@ -33,18 +33,18 @@ The following example shows adding an expense and viewing the expense summary.
 4. Exit
 
 Choose an option (1-4): 1
-Enter expense category: Food
-Enter expense description: lunch with friends
-Enter date (YYYY-MM-DD):
-No date entered. Using today's date: 2026-10-21
-Enter amount in Rs: 200
-Expense added and saved successfully
 
------EXPENSE TRACKER-----
-1. Add expense
-2. View expenses
-3. Summarize expenses
-4. Exit
+Enter expense category: Food
+
+Enter expense description: lunch with friends
+
+Enter date (YYYY-MM-DD):
+
+No date entered. Using today's date: 2026-10-21
+
+Enter amount in Rs: 200
+
+Expense added and saved successfully
 
 
 
